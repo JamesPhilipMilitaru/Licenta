@@ -1,0 +1,25 @@
+
+    body {
+       
+        height: 100vh; /* Ensure the body takes the full height of the viewport */
+        margin: 0; /* Remove default margin */
+      }
+   
+      /* Profile.css */
+
+.profile-container {
+  display: flex;
+}
+
+.profile-content {
+  flex: 1;
+  padding: 50px;
+}
+
+
+
+body {
+  margin: 0; /* Remove default margin */
+}
+
+

@@ -1,0 +1,23 @@
+/* ProfilePicture.css */
+.profile-picture-container {
+ 
+  margin-Top: -30px;
+  left: 0;
+  
+  flex-direction: column;
+ margin-right: 10px;
+}
+
+.profile-picture {
+  width: 180px; /* Adjust the width as needed */
+  height: 180px; /* Adjust the height as needed */
+  border-radius: 50%;
+  margin-bottom: -25px; /* Adjust the margin as needed */
+  box-shadow: 5px 5px 5px rgba(7, 6, 6, 0.5);
+ 
+}
+.name {
+width:150px;
+  /* No need for margin-top in this case */
+  text-align: center;
+}
